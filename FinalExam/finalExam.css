@@ -1,0 +1,17 @@
+/*Aksel Bejarano */
+
+body {
+    display: flex;
+            flex-direction: column;
+            align-items: center;
+}
+
+#calColumn {
+    display: flex;
+    justify-content: left;
+}
+
+#addDiv, #subDiv, #mulDiv, #divDiv {
+    padding-left: 10px;
+    padding-right: 10px;
+}
